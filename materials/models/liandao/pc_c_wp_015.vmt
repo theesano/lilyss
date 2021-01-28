@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/liandao/PC_C_WP_015"
+         $selfillum 1
+}

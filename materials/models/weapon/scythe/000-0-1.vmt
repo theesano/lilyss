@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/weapon/scythe/000-0-1"
+	"$surfaceprop" "Metal"
+}

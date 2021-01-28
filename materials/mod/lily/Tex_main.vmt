@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "mod/lily/Tex_main"
+	"$lightwarptexture" "mod/lily/anime_lightwarp1"
+}

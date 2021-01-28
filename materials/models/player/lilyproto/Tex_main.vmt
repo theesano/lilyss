@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	$basetexture "models/player/lilyproto/Tex_main"
+	"$lightwarptexture" "anime_lightwarp1"
+}

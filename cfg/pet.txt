@@ -1,0 +1,19 @@
+Pet
+{
+    toolwindow
+    {
+        bounds "0.0203125011 0.4574073993 0.4937500258 0.5074073984"
+        windows
+        {
+            panel "properties"
+        }
+    }
+    toolwindow
+    {
+        bounds "0.5354166946 0.4629629548 0.3864583535 0.3694444379"
+        windows
+        {
+            panel "previewpanel"
+        }
+    }
+}

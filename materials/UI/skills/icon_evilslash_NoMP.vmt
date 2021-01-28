@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture" "UI/skills/icon_evilslash"
+	"nomip" 1
+	"nocompress" 1
+	"$nolod" 1
+	"$color" "{255 86 117}"
+}
