@@ -51,7 +51,7 @@
 "+klook"				"#Valve_Keyboard_Look_Modifier"
 "+camin"				"#Valve_CameraIn"
 "+camout"				"#Valve_CameraOut"
-"+throwgrenade"			"#Valve_QuickGrenade"
+"+throwgrenade"			"Summons/Store weapon"
 "+quickslot1"			"#Valve_QuickSlot1"
 "+quickslot2"			"#Valve_QuickSlot2"
 "+quickslot3"			"#Valve_QuickSlot3"

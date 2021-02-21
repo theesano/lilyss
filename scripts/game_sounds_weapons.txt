@@ -1323,6 +1323,120 @@
 	"wave"			"SFX/player/swing/PC_C_N_Attack_03.wav"
 }
 
+"Weapon_Melee.ATTACK4"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"0.80"
+	"soundlevel"	"SNDLVL_105dB"
+	"pitch"			"95,100"
+
+	"wave"			"SFX/player/swing/PC_C_N_Attack_04.wav"
+}
+
+"Weapon_Melee.ATTACK5"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"0.80"
+	"soundlevel"	"SNDLVL_105dB"
+	"pitch"			"95,100"
+
+	"wave"			"SFX/player/swing/PC_C_N_Attack_05.wav"
+}
+
+"Weapon_Melee.SPECIAL1"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"0.40"
+	"soundlevel"	"SNDLVL_105dB"
+	"pitch"			"95,100"
+
+	"wave"			"SFX/player/swing/PC_C_Skill_DeathGrinder.wav"
+}
+
+"Weapon_Melee.SPECIAL2"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"0.40"
+	"soundlevel"	"SNDLVL_105dB"
+	"pitch"			"95,100"
+
+	"wave"			"SFX/player/swing/PC_C_Skill_DeathTornado_Projectile.wav"
+}
+
+"Weapon_Melee.SPECIAL3"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"0.40"
+	"soundlevel"	"SNDLVL_105dB"
+	"pitch"			"95,100"
+
+	"wave"			"SFX/player/swing/PC_C_Skill_EvilSlash.wav"
+}
+
+"Weapon_Melee.SPECIAL4"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"0.40"
+	"soundlevel"	"SNDLVL_105dB"
+	"pitch"			"95,100"
+
+	"wave"			"SFX/player/swing/PC_C_Skill_FearTrap.wav"
+}
+
+"Weapon_Melee.SPECIAL5"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"0.40"
+	"soundlevel"	"SNDLVL_105dB"
+	"pitch"			"95,100"
+
+	"wave"			"SFX/player/swing/PC_C_Skill_GrimCountdown.wav"
+}
+
+"Weapon_Melee.SPEVADE"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"0.80"
+	"soundlevel"	"SNDLVL_105dB"
+	"pitch"			"95,100"
+	
+	rndwave
+	{
+		"wave"			"SFX/player/swing/PC_Special_Evade_1.wav"
+		"wave"			"SFX/player/swing/PC_Special_Evade_2.wav"
+	}
+}
+
+"Weapon_Melee.AIRATTACK1"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"0.80"
+	"soundlevel"	"SNDLVL_105dB"
+	"pitch"			"95,100"
+
+	"wave"			"SFX/player/swing/PC_C_Attack_Air_01.wav"
+}
+
+"Weapon_Melee.AIRATTACK2"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"0.80"
+	"soundlevel"	"SNDLVL_105dB"
+	"pitch"			"95,100"
+
+	"wave"			"SFX/player/swing/PC_C_Attack_Air_02.wav"
+}
+
+"Weapon_Melee.AIRATTACK3"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"0.80"
+	"soundlevel"	"SNDLVL_105dB"
+	"pitch"			"95,100"
+
+	"wave"			"SFX/player/swing/PC_C_Attack_Air_03.wav"
+}
+
 "Weapon_Melee.HIT"
 {
 "channel"		"CHAN_STATIC"

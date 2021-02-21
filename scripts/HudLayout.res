@@ -499,7 +499,7 @@
 		"BarChunkGap2" "0"
 
 		
-		"PaintBackgroundType" "2"
+		"PaintBackgroundType" "1"
 	
 	}
 	
@@ -511,8 +511,8 @@
 		"enabled" "1"
 		"xpos" "300"
 		"ypos" "410"
-		"wide" "224"
-		"tall" "62"
+		"wide" "150"
+		"tall" "30"
 		"text_xpos" "2"
 		"text_ypos" "10"
 		"text_xpos2" "30"
@@ -563,7 +563,7 @@
 		"icon_height5"	"28"
 		"Icon5Color" "0 255 0 255"
 		
-		"PaintBackgroundType" "2"
+		"PaintBackgroundType" "0"
 	
 	}
 	

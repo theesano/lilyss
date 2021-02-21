@@ -1,5 +1,5 @@
 "VertexLitGeneric"
 {
 	$basetexture "mod/lilyproto/Tex_main"
-	//"$lightwarptexture" "anime_lightwarp1"
+	"$lightwarptexture" "anime_lightwarp1"
 }

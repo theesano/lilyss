@@ -2,7 +2,7 @@
 {
 	"11"
 	{
-		"label" "select levels"
+		"label" "START GAME"
 		"command" "OpenNewGameDialog"
 	}
 	"12"

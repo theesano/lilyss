@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	$basetexture "mod/mob1_puppet/000-0-0"
+	"$lightwarptexture" "anime_lightwarp1"
+}

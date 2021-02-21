@@ -218,6 +218,21 @@
 	}
 }
 
+"Player.Evade"
+{
+	"channel"	"CHAN_STATIC"
+	"soundlevel"		"SNDLVL_105dB"
+	"volume"		"0.6"
+	"pitch"			"90,110"
+	"rndwave"
+	{
+		"wave"		"SFX/player/footstep/PC_A_Evade01.wav"
+		"wave"		"SFX/player/footstep/PC_A_Evade02.wav"
+		"wave"		"SFX/player/footstep/PC_A_Evade03.wav"
+
+	}
+}
+
 "Player.AmbientUnderWater"
 {
 	"channel"	"CHAN_STATIC"
