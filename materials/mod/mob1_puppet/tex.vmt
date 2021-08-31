@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	$phong 1
+	
+	"$basetexture" "models/mob1_puppet/tex"
+	"$surfaceprop" "Flesh"
+	"$lightwarptexture" "mod/mob1_puppet/celshaded_lightwarp"
+
+}

@@ -151,6 +151,16 @@
 	"wave"	"items/suitchargeok1.wav"
 }
 
+"ItemRage.Pickup"
+{
+	"channel"	"CHAN_ITEM"
+	"volume"	"1"
+	"soundlevel"  "SNDLVL_75dB"
+
+	"wave"	"SFX/item/Item_Get_Sphere.wav"
+}
+
+
 "Doll.Squeak"
 {
 	"channel"	"CHAN_STATIC"

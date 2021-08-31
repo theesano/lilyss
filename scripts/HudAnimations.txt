@@ -654,6 +654,29 @@ event HideCommentary
 	Animate 	HudCommentary 	Alpha	0 Linear 0.0 0.5
 }
 
+event Icon1
+{
+	// replace existing the textureID with texture from a path
+	SetTexture HudSkillCooldown icon_texture UI/skills/icon_evilslash 0
+}
+event Icon1onCD
+{
+	// replace existing the textureID with texture from a path
+	SetTexture HudSkillCooldown icon_texture UI/skills/icon_evilslash_onCD 0
+}
+event Icon1NoMP
+{
+ 	// replace existing the textureID with texture from a path
+		SetTexture HudSkillCooldown icon_texture UI/skills/icon_evilslash_NoMP 0
+
+}
+event Icon1Null
+{
+ 	// replace existing the textureID with texture from a path
+		SetTexture HudSkillCooldown icon_texture UI/rage/None 0
+
+}
+
 event Icon2
 {
 	// replace existing the textureID with texture from a path
@@ -721,4 +744,53 @@ event Icon5NoMP
 		SetTexture HudSkillCooldown icon_texture5 UI/skills/icon_tornadoNoMP 0
 
 }
+
+event Icon6
+{
+	// replace existing the textureID with texture from a path
+	SetTexture HudSkillCooldown icon_texture6 UI/skills/icon_scythecutter 0
+}
+event Icon6onCD
+{
+	// replace existing the textureID with texture from a path
+	SetTexture HudSkillCooldown icon_texture6 UI/skills/icon_scythecutter_onCD 0
+}
+event Icon6NoMP
+{
+ 	// replace existing the textureID with texture from a path
+		SetTexture HudSkillCooldown icon_texture6 UI/skills/icon_scythecutterNoMP 0
+
+}
+
+event UtilSlot1Icon0
+{
+	// replace existing the textureID with texture from a path
+		SetTexture HudRageInfo icon_texture UI/rage/None 0
+}
+
+event UtilSlot1Icon1
+{
+	// replace existing the textureID with texture from a path
+		SetTexture HudRageInfo icon_texture UI/rage/ItemHeal 0
+}
+
+event UtilSlot1Icon2
+{
+	// replace existing the textureID with texture from a path
+		SetTexture HudRageInfo icon_texture UI/rage/ItemMP 0
+}
+
+event UtilSlot1Icon3
+{
+	// replace existing the textureID with texture from a path
+		SetTexture HudRageInfo icon_texture UI/rage/ItemStamina 0
+}
+
+event UtilSlot1Icon4
+{
+	// replace existing the textureID with texture from a path
+		SetTexture HudRageInfo icon_texture UI/rage/ItemMoveSpeed 0
+}
+
+
 

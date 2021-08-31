@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/weapon/guideshape_bullet"
+	"$translucent" 1
+}

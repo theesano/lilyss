@@ -6,8 +6,8 @@ WeaponData
 	"printname"	"#HL2_Melee"
 	"viewmodel"				"models/weapons/v_crowbar.mdl"
 	// models/weapons/v_crowbar.mdl models/weapons/melee/v_fireaxe.mdl
-	"playermodel"			"models/weapons/melee/lilyscythe_u.mdl"
-	// models/weapons/w_crowbar.mdl models/weapons/melee/lilyscythe_u.mdl
+	"playermodel"			"models/weapons/melee/lilyscythe.mdl"
+	//"playermodel"			"models/weapons/melee/lilyscythe_u.mdl"
 	"anim_prefix"			"crowbar"
 	"bucket"				"0"
 	"bucket_position"		"0"

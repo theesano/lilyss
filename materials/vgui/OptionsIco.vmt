@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/OptionsIco"
+	"$alphatest" 1
+}

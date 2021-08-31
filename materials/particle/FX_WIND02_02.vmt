@@ -1,0 +1,5 @@
+"SpriteCard"
+{
+	"$basetexture" "particle/FX_WIND02_02"
+	"$alphatest" 1
+}

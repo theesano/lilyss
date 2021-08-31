@@ -1,5 +1,13 @@
 "VertexLitGeneric"
 {
 	$basetexture "mod/lilyproto/Tex_main"
-	"$lightwarptexture" "anime_lightwarp1"
+	$distancealpha 1
+	$nodecal "1"
+	"$lightwarptexture" "mod/lilyproto/celshaded_lightwarp"
+	
+	$outlinecolor "0 0 0"
+	$outlinealpha 1
+	$outlinestart 0
+	$soutlineend 0.5
+
 }

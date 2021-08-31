@@ -5,5 +5,5 @@
 	"$nolod" 1
 	//"$translucent" 1
 	//"$additive" 1
-	"$color" "{255 0 0}"
+	//"$color" "{255 0 0}"
 }

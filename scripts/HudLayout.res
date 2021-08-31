@@ -464,7 +464,7 @@
 		"xpos" "8"
 		"ypos" "50"
 		"wide" "135"
-		"tall" "33"
+		"tall" "64"
 		"text_xpos" "18"
 		"text_ypos" "1"
 		
@@ -476,9 +476,14 @@
 		
 		"text_xpos3" "56"
 		"text_ypos3" "12"
+
+		"text_xposArmorNum" "12"
+		"text_yposArmorNum" "22"
+
 		
 		"HullColor" "255 255 255 255"
 		"HullColor2" "165 55 253 255"
+		"HullColor3" "255 255 0 255"
 
 		"HullDisabledAlpha" "50"
 		
@@ -498,8 +503,14 @@
 		"BarChunkWidth2" "2"
 		"BarChunkGap2" "0"
 
+		"BarInsetX3" "26"
+		"BarInsetY3" "31"
+		"BarWidth3" "84"
+		"BarHeight3" "4"
+		"BarChunkWidth3" "2"
+		"BarChunkGap2" "0"
 		
-		"PaintBackgroundType" "1"
+		"PaintBackgroundType" "0"
 	
 	}
 	
@@ -509,10 +520,10 @@
 		"fieldName" "HudSkillCooldown"
 		"visible" "1"
 		"enabled" "1"
-		"xpos" "300"
+		"xpos" "270"
 		"ypos" "410"
-		"wide" "150"
-		"tall" "30"
+		"wide" "180"
+		"tall" "60"
 		"text_xpos" "2"
 		"text_ypos" "10"
 		"text_xpos2" "30"
@@ -523,13 +534,16 @@
 		"text_ypos4" "10"
 		"text_xpos5" "120"
 		"text_ypos5" "10"
+		"text_xpos6" "150"
+		"text_ypos6" "10"
 		"TextColor" "255 255 255 255"
 		"TextColor1" "255 0 0 255"
 		"TextColor2" "255 0 0 255"
 		"TextColor3" "255 0 0 255"
 		"TextColor4" "255 0 0 255"
 		"TextColor5" "255 0 0 255"
-		
+		"TextColor6" "255 0 0 255"
+
 		"icon_texture"	"UI/skills/icon_evilslash"
 		"icon_texture_2"	"UI/skills/icon_evilslash_onCD"
 		"icon_texture_3"	"UI/skills/icon_evilslash_noMP"
@@ -558,10 +572,18 @@
 		
 		"icon_texture5"	"UI/skills/icon_tornado"
 		"icon_xpos5"		"120"
-		"icon_ypos5"		"2"		
+		"icon_ypos5"		"2"	
 		"icon_width5"	"146"
 		"icon_height5"	"28"
 		"Icon5Color" "0 255 0 255"
+		
+		"icon_texture6"	"UI/skills/icon_scythecutter"
+		"icon_xpos6"		"150"
+		"icon_ypos6"		"2"		
+		"icon_width6"	"176"
+		"icon_height6"	"28"
+		"Icon6Color" "0 255 0 255"
+
 		
 		"PaintBackgroundType" "0"
 	
@@ -590,5 +612,112 @@
 		"BarChunkWidth" "2"
 		"BarChunkGap" "0"
 	}
+	
+	HudRageInfo
+	{
+		"fieldName" "HudRageInfo"
+		"visible" "1"
+		"enabled" "1"
+		"xpos" "470"
+		"ypos" "410" //425
+		"wide" "162"
+		"tall" "64" //32
+		"RageColor" "255 255 255 224"
+		"text_xpos" "18"
+		"text_ypos" "1"
+		
+		"text2_xpos" "56"
+		"text2_ypos" "1"
+		
+		"text3_xpos" "96"
+		"text3_ypos" "1"
+		
+		"text4_xpos" "128"
+		"text4_ypos" "1"
+		
+		"text5_xpos" "96"
+		"text5_ypos" "32"
+		
+		"text6_xpos" "128"
+		"text6_ypos" "32"
+		
+		"text7_xpos" "1"
+		"text7_ypos" "8"
+		
+		"icon_texture"	"UI/rage/None"
+		"icon_texture1" "UI/rage/ItemHeal"
+		"icon_texture2" "UI/rage/ItemMP"
+		"icon_texture3" "UI/rage/ItemStamina"
+		"icon_texture4" "UI/rage/ItemMoveSpeed"
+		
+		"icon_xpos"		"96"
+		"icon_ypos"		"0"	
+		"icon_width"	"120"
+		"icon_height"	"24"
+		
+		"icon2_xpos"	"128"
+		"icon2_ypos"	"0"	
+		"icon2_width"	"152"
+		"icon2_height"	"24"
+		
+		"icon3_xpos"	"96"
+		"icon3_ypos"	"32"	
+		"icon3_width"	"120"
+		"icon3_height"	"56"
+		
+		"icon4_xpos"	"128"
+		"icon4_ypos"	"32"	
+		"icon4_width"	"152"
+		"icon4_height"	"56"
+		
+		"ragebar_xpos" "84" // these uses proportional int, which means that they would be multiplied based on the screen res
+		"ragebar_ypos" "48"
+		"ragebar_width" "24"
+		"ragebar_height" "32"
+		
+		"PaintBackgroundType" "0"
+	}
+	
+	HUDMenuHint
+	{
+	
+		"fieldName" "HUDMenuHint"
+		"visible" "1"
+		"enabled" "1"
+		"xpos" "815"
+		"ypos" "300"
+		"wide" "36"
+		"tall" "165"
+		"text_xpos" "32"
+		"text_ypos" "1"
+		
+		"TextFont" "Default"
+	
+		"PaintBackgroundType" "0"
+	
+	}
+	
+	HudMonsterHP
+	{
+		"fieldName" "HudMonsterHP"
+		"visible" "1"
+		"enabled" "1"
+		"xpos" "320"
+		"ypos" "40"
+		"wide" "160"
+		"tall" "18"
+		"MonsterHpColor" "255 0 202 255"
+		"text_xpos" "18"
+		"text_ypos" "1"
+		
+		"text2_xpos" "56"
+		"text2_ypos" "1"
+		
+		"BarInsetX" "26"
+		"BarInsetY" "9"
+		"BarWidth" "84"
+		"BarHeight" "6"
+	}
+
 
 }

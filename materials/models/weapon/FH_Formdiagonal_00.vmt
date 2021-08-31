@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/weapon/FH_Formdiagonal_00"
+	"$translucent" 1
+	$nocull 1
+
+}

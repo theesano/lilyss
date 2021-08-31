@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "maps/SG/SG_Tile_A_A"
+	$envmap env_cubemap
+	$mips
+	$smooth
+}

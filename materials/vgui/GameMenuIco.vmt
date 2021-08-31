@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/GameMenuIco"
+	"$alphatest" 1
+}

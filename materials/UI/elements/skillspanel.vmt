@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "UI/elements/skillspanel"
+	"$alphatest" 1
+}

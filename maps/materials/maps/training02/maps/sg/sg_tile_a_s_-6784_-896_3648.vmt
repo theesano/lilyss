@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/MAPS/SG/SG_TILE_A_S.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/training02/c-6784_-896_3648"
+	}
+}

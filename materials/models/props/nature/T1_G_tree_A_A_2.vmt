@@ -1,0 +1,10 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/props/nature/T1_G_tree_A_A_2"
+	"$alphatest" 1
+	$nocull 1
+	$model 1
+
+	$alphatestreference 0.01
+	//$allowalphatocoverage 1
+}

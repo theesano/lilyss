@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props/nature/NOTHING"
+	"$alphatest" 1
+	$nocull 1
+
+	$alphatestreference 0.05
+	$allowalphatocoverage 1
+
+}

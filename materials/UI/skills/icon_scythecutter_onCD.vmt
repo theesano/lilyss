@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "UI/skills/icon_scythecutter_onCD"
+	"nomip" 1
+	"nocompress" 1
+	"$nolod" 1
+}

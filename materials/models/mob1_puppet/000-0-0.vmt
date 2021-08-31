@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/mob1_puppet/tex"
+	"$surfaceprop" "Flesh"
+}

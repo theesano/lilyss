@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props/nature/E05_RV_palmtree_A_tree"
+	"$alphatest" 1
+}

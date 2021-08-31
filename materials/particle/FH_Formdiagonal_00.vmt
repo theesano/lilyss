@@ -1,0 +1,10 @@
+"Sprite"
+{
+	"$basetexture" "particle/FH_Formdiagonal_00"
+	"$alphatest" 1
+	$additive 1
+	$vertexcolor 1
+	$nocull 1
+	$spriterendermode 5
+
+}

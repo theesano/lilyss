@@ -47,4 +47,8 @@ particles_manifest
 	"file"		"particles/rocket_fx.pcf"	
 	"file"		"particles/impact_fx.pcf"
 	"file"		"particles/attackhint-aoe.pcf"	
+	"file"		"particles/chappi_explosion.pcf"	
+	"file"		"particles/dynamicstathint.pcf"
+
+
 }
